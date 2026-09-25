@@ -18,4 +18,3 @@ Fill this in inside YOUR OWN FORK. Check the box (`[ ]` → `[x]`) when you fini
 - [ ] Q12 (40 pts) — Final Boss
 
 Quest details for each of these are in `QUESTS.md`.
-s
